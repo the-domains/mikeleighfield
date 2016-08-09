@@ -1,14 +1,26 @@
-layout_spectrum: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.8952738
 color:
   saturation: 0.2491453
-  lightness: 0.7870788
   brandStrength: 1
+  rhythmicContrast: 0.07360394
   brandColors:
     - '#C3DFE0'
     - '#8A8A8A'
     - '#353334'
     - '#697173'
     - '#ACB8B9'
-  rhythmicContrast: 0.07360394
+  lightness: 0.7870788
+layout_spectrum: 0.9543501
 name: MikeLeighfield
