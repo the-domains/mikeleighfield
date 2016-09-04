@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-09-01T22:55:18.686Z'
+datePublished: '2016-09-01T22:57:14.728Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T22:55:03.563Z'
+dateModified: '2016-09-01T22:57:14.223Z'
 title: Landscape
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-09-01-landscape.md
-_type: Blurb
+hasPage: true
+starred: false
+url: landscape/index.html
+_type: Article
 
 ---
 # Landscape
