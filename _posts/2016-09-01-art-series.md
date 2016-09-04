@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-09-01T23:04:29.840Z'
+datePublished: '2016-09-01T23:04:46.805Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T23:04:19.852Z'
+dateModified: '2016-09-01T23:04:46.492Z'
 title: Art Series
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-09-01-art-series.md
-_type: Blurb
+hasPage: true
+starred: false
+url: art-series/index.html
+_type: Article
 
 ---
 # Art Series
