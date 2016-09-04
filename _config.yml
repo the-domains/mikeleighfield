@@ -15,10 +15,6 @@ author:
   name: Michael Leighfield
   email: michaelleighfield@gmail.com
 name: Mike Leighfield
-navigation:
-  - name: Portraits
-    id: 7d82ae9e-849a-46a6-9893-32175810f4d2
-    type: content
 collections:
   - index:
       path: /
