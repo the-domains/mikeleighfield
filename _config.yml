@@ -15,6 +15,10 @@ author:
   name: Michael Leighfield
   email: michaelleighfield@gmail.com
 name: Mike Leighfield
+navigation:
+  - name: Event
+    id: 74d8154d-7ab9-46c5-ae0a-827b656a3218
+    type: content
 collections:
   - index:
       path: /
