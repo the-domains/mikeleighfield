@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-09-01T22:56:49.126Z'
+datePublished: '2016-09-01T22:57:06.702Z'
 sourcePath: _posts/2016-09-01-portraits.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T22:55:56.456Z'
+dateModified: '2016-09-01T22:57:06.298Z'
 title: 'Portraiture '
 publisher: {}
 description: ''
+hasPage: true
 starred: false
-_type: Blurb
+url: portraiture/index.html
+_type: Article
 
 ---
 # Portraiture ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bb135b63-da81-4e9b-b7b1-b091cb846124.jpg)
