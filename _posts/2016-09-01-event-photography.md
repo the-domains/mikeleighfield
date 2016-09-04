@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-09-01T22:47:42.578Z'
+datePublished: '2016-09-01T22:48:01.272Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T22:47:09.485Z'
+dateModified: '2016-09-01T22:48:00.921Z'
 title: Event Photography
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-09-01-event-photography.md
-_type: Blurb
+hasPage: true
+starred: false
+url: event-photography/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca638f8a-8fc3-4acb-9724-4113368fd422.jpg)
