@@ -19,6 +19,9 @@ navigation:
   - name: Event
     id: 74d8154d-7ab9-46c5-ae0a-827b656a3218
     type: content
+  - name: Portraits
+    id: 7d82ae9e-849a-46a6-9893-32175810f4d2
+    type: content
 collections:
   - index:
       path: /
