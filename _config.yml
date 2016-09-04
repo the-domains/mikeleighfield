@@ -22,6 +22,9 @@ navigation:
   - name: Portraiture
     id: 78b53923-5b31-4e40-864c-23f5c2d4f446
     type: content
+  - name: Landscape
+    id: d1876113-5977-4c62-aa1a-7c405bf6488c
+    type: content
 collections:
   - index:
       path: /
