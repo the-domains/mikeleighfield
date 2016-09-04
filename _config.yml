@@ -25,6 +25,9 @@ navigation:
   - name: Landscape
     id: d1876113-5977-4c62-aa1a-7c405bf6488c
     type: content
+  - name: Product
+    id: a0bdfba9-4cb7-45ce-9a29-cc95c9d03f0d
+    type: content
 collections:
   - index:
       path: /
