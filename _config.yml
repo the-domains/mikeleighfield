@@ -11,7 +11,10 @@ color:
     - '#ACB8B9'
   lightness: 0.7870788
 layout_spectrum: 0.9543501
-name: MikeLeighfield
+author:
+  name: Michael Leighfield
+  email: michaelleighfield@gmail.com
+name: Mike Leighfield
 collections:
   - index:
       path: /
