@@ -1,16 +1,16 @@
-typography_spectrum: 0.8952738
+layout_spectrum: 0.35569439292885363
+typography_spectrum: 0.07350310520268977
 color:
-  saturation: 0.2491453
-  brandStrength: 1
-  rhythmicContrast: 0.07360394
+  saturation: 0.5853658905252814
+  brandStrength: 0.3314812413882464
+  rhythmicContrast: 0.0989669521804899
   brandColors:
-    - '#C3DFE0'
-    - '#8A8A8A'
-    - '#353334'
-    - '#697173'
-    - '#ACB8B9'
-  lightness: 0.7870788
-layout_spectrum: 0.9543501
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  lightness: 0.3643795831594616
 author:
   name: Michael Leighfield
   email: michaelleighfield@gmail.com
