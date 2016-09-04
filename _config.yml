@@ -28,6 +28,9 @@ navigation:
   - name: Product
     id: a0bdfba9-4cb7-45ce-9a29-cc95c9d03f0d
     type: content
+  - name: Art Series
+    id: 67d82468-01e8-4c3c-87c0-d7fea5a0c366
+    type: content
 collections:
   - index:
       path: /
