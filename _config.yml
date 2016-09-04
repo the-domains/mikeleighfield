@@ -31,6 +31,9 @@ navigation:
   - name: Art Series
     id: 67d82468-01e8-4c3c-87c0-d7fea5a0c366
     type: content
+  - name: Catching Up With Carol
+    id: cb8afb4b-db0b-483c-a650-ab16cb62c23a
+    type: content
 collections:
   - index:
       path: /
