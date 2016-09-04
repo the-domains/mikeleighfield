@@ -19,6 +19,9 @@ navigation:
   - name: Event
     id: ff945d2c-4e5e-44e8-bf70-2d090a2862c6
     type: content
+  - name: Portraiture
+    id: 78b53923-5b31-4e40-864c-23f5c2d4f446
+    type: content
 collections:
   - index:
       path: /
