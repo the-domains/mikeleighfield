@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T23:26:13.325Z'
+datePublished: '2016-09-01T23:28:26.745Z'
 sourcePath: _posts/2016-09-01-catching-up-with-carol.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-01T23:26:13.055Z'
+dateModified: '2016-09-01T23:28:26.440Z'
 title: Catching Up With Carol
 publisher: {}
 description: >-
@@ -40,4 +40,6 @@ Carol is a happy-go-lucky housewife who was born and raised in Milwaukee, Wiscon
 
 Tim, or Timmy as his mother calls him, is a moody teenager just fresh out of high school. He currently lives with his mother while he decides what he wants to do with his life. Tim is a normal teenager for the most part, but due to his fathers death he is severely jaded. He gets along well with his mother though he often finds that she can be rather clingy. Unfortunately for Tim, his mother is having a hard time adjusting to their new life in Toronto and she often has a way of attaching herself to his hip wherever he goes. While Tim finds this embarrassing and annoying, he knows that he relies on his mother just as much as she relies on him, he just doesn't need her knowing that.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwDAAAAAAE" style=""></iframe>
+## Catching Up With Carol - TLC Short
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS1y_LzE3N10vOz9U3NDIwMjCzNDAHAIPMCFM" style=""></iframe>
