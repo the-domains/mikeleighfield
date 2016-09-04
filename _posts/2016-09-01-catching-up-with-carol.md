@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-01T23:11:08.629Z'
+datePublished: '2016-09-01T23:11:18.368Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-01T23:10:44.219Z'
+dateModified: '2016-09-01T23:11:17.505Z'
 title: Catching Up With Carol
 publisher: {}
 description: >-
@@ -12,9 +12,11 @@ description: >-
   over moving by from Milwaukee, Wisconsin, USA to Toronto, Ontario, Canada.
   Carol and Tim are dealing with the highs and lows of starting a new chapter of
   their lives in a new country.
-starred: false
 sourcePath: _posts/2016-09-01-catching-up-with-carol.md
-_type: Blurb
+hasPage: true
+starred: false
+url: catching-up-with-carol/index.html
+_type: Article
 
 ---
 # Catching Up With Carol
